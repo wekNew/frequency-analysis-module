@@ -1,0 +1,122 @@
+Vivado Simulator v2021.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: D:/Application/Xilinx/Vivado/2021.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot testbench1_behav xil_defaultlib.testbench1 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FAS.v" Line 1. Module FAS doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FIR.v" Line 2. Module FIR doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/S2P.v" Line 1. Module S2P doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 2. Module FFT doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 1. Module Analysis doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" Line 230. Module Comparator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FAS.v" Line 1. Module FAS doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FIR.v" Line 2. Module FIR doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/S2P.v" Line 1. Module S2P doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 2. Module FFT doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 311. Module FFT_A doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" Line 330. Module FFT_B doesn't have a timescale but at least one module in design has a timescale.
+INFO: [Common 17-14] Message 'XSIM 43-4099' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.FIR
+Compiling module xil_defaultlib.S2P
+Compiling module xil_defaultlib.FFT_A
+Compiling module xil_defaultlib.FFT_B
+Compiling module xil_defaultlib.FFT
+Compiling module xil_defaultlib.Comparator
+Compiling module xil_defaultlib.Analysis
+Compiling module xil_defaultlib.FAS
+Compiling module xil_defaultlib.testbench1
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench1_behav

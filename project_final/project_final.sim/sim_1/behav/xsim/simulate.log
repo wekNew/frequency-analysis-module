@@ -1,0 +1,59 @@
+Time resolution is 1 ps
+ERROR at FFT  ppoint number = 0: The real response output 007e0000 != expectd 00850000 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 1: The real response output e3a70fd4 != expectd 05a8faaa 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 2: The real response output 966d7778 != expectd ff970075 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 3: The real response output 3be22f04 != expectd ffc1003a 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 4: The real response output 00260000 != expectd ffcf0026 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 5: The real response output c7690000 != expectd ffd30017 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 6: The real response output ffe10000 != expectd ffd6000f 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 7: The real response output a9f10000 != expectd ffd50006 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 8: The real response output 00000000 != expectd ffd50000 
+-----------------------------------------------------
+ERROR at FFT  ppoint number = 9: The real response output 9d5c0000 != expectd ffd5fffa 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =10: The real response output 88880000 != expectd ffd6fff1 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =11: The real response output d0fc0000 != expectd ffd3ffe9 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =12: The real response output 00000000 != expectd ffcfffda 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =13: The real response output 00000000 != expectd ffc1ffc6 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =14: The real response output 00000000 != expectd ff97ff8b 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =15: The real response output 00000000 != expectd 05a80556 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =16: The real response output 00e40000 != expectd 00c80000 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =17: The real response output fc97e429 != expectd 0771fd2b 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =18: The real response output 4afb4afc != expectd ff95003e 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =19: The real response output 6dbeb5c4 != expectd ffcb001f 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =20: The real response output ffff0000 != expectd ffdb0015 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =21: The real response output e2620000 != expectd ffe1000d 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =22: The real response output b4d90000 != expectd ffe20006 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =23: The real response output 59800000 != expectd ffe50004 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =24: The real response output 00000000 != expectd ffe60000 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =25: The real response output 6c170000 != expectd ffe4fffc 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =26: The real response output b5040000 != expectd ffe2fffa 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =27: The real response output 4a3c0000 != expectd ffe1fff3 
+-----------------------------------------------------
+ERROR at FFT  ppoint number =28: The real response output 00000000 != expectd ffdbffeb 
+--------

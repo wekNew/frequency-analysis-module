@@ -1,0 +1,17 @@
+parameter signed [31:0] FFT_R0 = 32'h00010000;
+parameter signed [31:0] FFT_R1 = 32'h0000EC83;
+parameter signed [31:0] FFT_R2 = 32'h0000B504;
+parameter signed [31:0] FFT_R3 = 32'h000061F7;
+parameter signed [31:0] FFT_R4 = 32'h00000000;
+parameter signed [31:0] FFT_R5 = 32'hFFFF9E09;
+parameter signed [31:0] FFT_R6 = 32'hFFFF4AFC;
+parameter signed [31:0] FFT_R7 = 32'hFFFF137D;
+
+parameter signed [31:0] FFT_I0 = 32'h00000000;
+parameter signed [31:0] FFT_I1 = 32'hFFFF9E09;
+parameter signed [31:0] FFT_I2 = 32'hFFFF4AFC;
+parameter signed [31:0] FFT_I3 = 32'hFFFF137D;
+parameter signed [31:0] FFT_I4 = 32'hFFFF0000;
+parameter signed [31:0] FFT_I5 = 32'hFFFF137D;
+parameter signed [31:0] FFT_I6 = 32'hFFFF4AFC;
+parameter signed [31:0] FFT_I7 = 32'hFFFF9E09;

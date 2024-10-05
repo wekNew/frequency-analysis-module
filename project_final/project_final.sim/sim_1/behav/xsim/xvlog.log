@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Analysis
+INFO: [VRFC 10-311] analyzing module Comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FAS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FAS
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFT
+INFO: [VRFC 10-311] analyzing module FFT_A
+INFO: [VRFC 10-311] analyzing module FFT_B
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FIR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIR
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/S2P.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module S2P
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/testbench1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench1

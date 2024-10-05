@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/Analysis.v,1654152134,verilog,,D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FAS.v,,Analysis;Comparator,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FAS.v,1654225183,verilog,,D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v,,FAS,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FFT.v,1654777404,verilog,,D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FIR.v,D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/project_final/project_final.sim/sim_1/behav/xsim/FFT_coefficient.dat,FFT;FFT_A;FFT_B,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/FIR.v,1654777114,verilog,,D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/S2P.v,D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/project_final/project_final.sim/sim_1/behav/xsim/FIR_coefficient.dat,FIR,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/S2P.v,1654150159,verilog,,D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/testbench1.v,,S2P,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/project_final/project_final.sim/sim_1/behav/xsim/FFT_coefficient.dat,1654776135,verilog,,,,,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/project_final/project_final.sim/sim_1/behav/xsim/FIR_coefficient.dat,1654776135,verilog,,,,,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/project_final/project_final.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/File_College/110_spring/Logic_design_Lab/Final/LL_FinalProject/testbench1.v,1653261752,verilog,,,,testbench1,,,,,,,,
